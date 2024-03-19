@@ -1,0 +1,2 @@
+# Trabalho 1 
+The project is about simulating a ATM, where you can see your balance in the txt "saldo", can make a deposit and print your extract in thhe txt file "extrato", all using haskell language, wich works with the function paradigm in programming.
